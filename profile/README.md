@@ -14,4 +14,4 @@ For inquiries, please contact info@icosatech.com, or go to the [contact page](ht
 
 ---
 
-_Note: Most of our repositories are private, so you may not see much activity here. Visit our website to learn more about our projects!_
+> _**Note**: Most of our repositories are private, so you may not see much activity here. Visit our website to learn more about our projects!_
